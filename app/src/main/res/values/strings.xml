@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChatzApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="name">Name</string>
+    <string name="create_a_new_account">Create a new Account</string>
+    <string name="login_btn_text">Log In</string>
+    <string name="sign_up_btn_text">Sign Up</string>
+    <string name="update_your_profile">Update Your Profile</string>
+    <string name="update">Update</string>
+    <string name="user">User</string>
+    <string name="status">Status</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="chatz">Chatz</string>
+    <string name="invalid_email">invalid email</string>
+    <string name="password_must_be_eight_characters">password must be 8 characters</string>
+    <string name="name_cannot_be_empty">name cannot be empty</string>
+    <string name="choose_your_profile_picture">Choose your profile picture</string>
+    <string name="choose_from_gallery">Choose From gallery</string>
+    <string name="cancel">Cancel</string>
+</resources>

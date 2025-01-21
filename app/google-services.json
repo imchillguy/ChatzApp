@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076498426310",
+    "project_id": "chatzapp-f9dfe",
+    "storage_bucket": "chatzapp-f9dfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076498426310:android:e495b92800cbef5d10aac7",
+        "android_client_info": {
+          "package_name": "com.chillguy.chatzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPVeqSuFHrv9Ub--W0mhqwOS9OCxiAHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
