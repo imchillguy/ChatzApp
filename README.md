@@ -1,4 +1,4 @@
-<img src="screenshots/chatz_logo.PNG" style="width: 800px; height: 200px;">
+<img src="screenshots/chatz_logo.PNG" style="width: 200px; height: 200px;">
 
 # 📢 ChatzApp
 
@@ -6,8 +6,10 @@ A sleek and modern chat application built for seamless real-time communication. 
 
 ## 🎨 ChatzApp Preview
 
-<img src="./screenshots/chat.gif" width="600">
-<img src="./screenshots/registration.gif" width="600">
+<div style="display: flex; flex-direction: row;">
+  <img src="./screenshots/chat.gif" width="600" height=600>
+  <img src="./screenshots/registration.gif" width="300" height=600>
+</div>
 
 ## 🚀 Features
 ✅ **Real-time Messaging** – Instant chat powered by Firebase  
