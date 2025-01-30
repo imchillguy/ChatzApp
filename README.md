@@ -15,4 +15,3 @@ A sleek and modern chat application built for seamless real-time communication. 
 ✅ **Real-time Messaging** – Instant chat powered by Firebase  
 ✅ **User Authentication** – Secure login and signup system  
 ✅ **Push Notification** – Have realtime push notifications
-✅ **Responsive UI** – Works smoothly on mobile
